@@ -5,6 +5,6 @@ Developed in 2017
 Android application that counts Sushi eaten per session. 
 
 ## Features
--Silly and pleasing graphics
--Easter Egg mesages for certain number of sushi consumed
+- Silly and pleasing graphics  
+- Easter Egg mesages for certain number of sushi consumed
 
