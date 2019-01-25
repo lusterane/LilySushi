@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LilySushi</string>
+    <string name="decrement_button">Decrement</string>
+</resources>
